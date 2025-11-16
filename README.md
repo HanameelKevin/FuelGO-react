@@ -40,4 +40,6 @@ src/
 
 Deployment
 
+https://hanameelkevin.github.io/FuelGO-react/
+
 Can be deployed on Vercel, Netlify, or GitHub Pages.
